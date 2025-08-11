@@ -37,14 +37,14 @@ Além disso, o sistema implementa **observabilidade** com **OpenTelemetry** e vi
 ├── docker-compose.yml
 ├── .env
 └── README.md
+```
 
 ## ⚙️ Configuração do Ambiente
 
 1. **Clonar o repositório**
    ```bash
    git clone https://github.com/seu-usuario/sistema-cep-clima.git
-   cd sistema-cep-clima
-````
+   cd sistema-cep-clima```
 
 2. **Subir os serviços com Docker**
 
