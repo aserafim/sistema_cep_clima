@@ -49,7 +49,7 @@ Além disso, o sistema implementa **observabilidade** com **OpenTelemetry** e vi
 2. **Subir os serviços com Docker**
 
    ```bash
-   docker compose up --build
+   docker-compose up --build
    ```
 
    Isso irá:
